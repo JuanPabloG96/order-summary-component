@@ -16,7 +16,6 @@
 .prettierignore
 
 README-template.md
-README.md
 design/active-states.jpg
 design/desktop-design.jpg
 design/mobile-design.jpg
