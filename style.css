@@ -144,6 +144,7 @@ footer {
     height: 100px;
     display: grid;
     place-items: center;
+    text-align: center;
 }
 
 @media (min-width: 376px) {
